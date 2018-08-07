@@ -1,3 +1,5 @@
+This is a variant of njRAT 0.5.0
+
 Password : infected
 
 IoCs:
